@@ -9,20 +9,20 @@
 
 <br/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/atifjaveed">
 <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/atif-javeed-3ba23728a">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:atifjaveedsheikh@gmail.com">
 <img src="https://img.shields.io/badge/Email-6C22A6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=7e15f7&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=7e15f7&labelColor=0d1117"/>
+<img src="https://komarev.com/ghpvc/?username=atifjaveed&style=for-the-badge&color=7e15f7&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/atifjaveed?style=for-the-badge&color=7e15f7&labelColor=0d1117"/>
 
 </div>
 
