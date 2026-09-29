@@ -12,9 +12,11 @@
 <a href="https://github.com/atifjaveed">
 <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/atif-javeed-3ba23728a">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:atifjaveedsheikh@gmail.com">
 <img src="https://img.shields.io/badge/Email-6C22A6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -114,6 +116,7 @@ Atif Javeed
 <td>🧩 <b>Software Architecture</b></td>
 <td>Clean service-oriented architecture, reusable payload builders, domain logic and maintainable application design</td>
 </tr>
+
 </table>
 
 <br/>
@@ -127,6 +130,7 @@ Atif Javeed
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,react,quasar,tailwind"/>
 
 `HTML` `CSS` `JavaScript` `TypeScript`
+
 `Vue.js` `Quasar` `Nuxt.js` `React` `Tailwind CSS`
 
 ---
@@ -136,6 +140,7 @@ Atif Javeed
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,graphql"/>
 
 `PHP` `Laravel` `Node.js` `NestJS`
+
 `REST APIs` `GraphQL` `Microservices` `Webhooks` `OAuth`
 
 ---
@@ -145,6 +150,7 @@ Atif Javeed
 <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,firebase"/>
 
 `MySQL` `PostgreSQL` `Redis` `MongoDB`
+
 `Database Design` `Migrations` `Indexes` `Relationships` `Query Optimization`
 
 ---
@@ -154,6 +160,7 @@ Atif Javeed
 <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,gitlab"/>
 
 `Docker` `Linux` `Nginx`
+
 `Git` `GitHub` `GitLab` `CI/CD`
 
 ---
@@ -161,7 +168,9 @@ Atif Javeed
 ### 🧪 Engineering & Development
 
 `SOLID` `DRY` `OOP` `Clean Architecture`
+
 `Design Patterns` `Service Classes` `Queues` `Jobs` `Events`
+
 `Unit Testing` `Debugging` `Code Review` `API Documentation`
 
 <br/>
@@ -259,17 +268,17 @@ Git            ████████████████████
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7e15f7&icon_color=b347ff&text_color=c9d1d9"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=atifjaveed&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7e15f7&icon_color=b347ff&text_color=c9d1d9"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7e15f7&text_color=c9d1d9"/>
-
-<br/><br/>
-
-<img width="85%" src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=midnight-purple&hide_border=true&background=0d1117&stroke=7e15f7&ring=7e15f7&fire=ffffff&currStreakLabel=7e15f7"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atifjaveed&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7e15f7&text_color=c9d1d9"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D0221&color=b347ff&line=7e15f7&point=ff6ef7&area=true&hide_border=true&area_color=2d0a5c"/>
+<img width="85%" src="https://streak-stats.demolab.com/?user=atifjaveed&theme=midnight-purple&hide_border=true&background=0d1117&stroke=7e15f7&ring=7e15f7&fire=ffffff&currStreakLabel=7e15f7"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=atifjaveed&bg_color=0D0221&color=b347ff&line=7e15f7&point=ff6ef7&area=true&hide_border=true&area_color=2d0a5c"/>
 
 </div>
 
@@ -296,15 +305,15 @@ If you're building something meaningful and need a developer who enjoys solving 
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/atifjaveed">
 <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/atif-javeed-3ba23728a">
 <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:atifjaveedsheikh@gmail.com">
 <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-7e15f7?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -317,8 +326,6 @@ If you're building something meaningful and need a developer who enjoys solving 
 > **"Build it clean. Make it scalable. Ship it reliably."**
 >
 > **— Atif Javeed**
-
-<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7e15f7,100:0d1117&height=140&section=footer"/>
 
